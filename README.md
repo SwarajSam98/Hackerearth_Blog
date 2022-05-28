@@ -1,0 +1,15 @@
+# Full-Stack-Blog-Application
+
+Developed a Full Stack Blogging Application using Express.js with Node.js for the server side and React.js alongwith Next.js for the front-end. Used MongoDB for the database.
+
+## Major features of the Web Application:
+
+• Implemented user as well as admin login / signup also google social login.
+
+• Blogs search based on title as well as description.
+
+• All pages contain SEO friendly tags and description.
+
+• Filter Blogs based on Categories and Tags
+
+• Admin create/remove/update features implemented for blogs, categories and tags.
